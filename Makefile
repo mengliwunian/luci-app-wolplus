@@ -18,3 +18,5 @@ LUCI_DEPENDS:=+luci-base +etherwake +rpcd +ucode +ucode-mod-fs +ucode-mod-uci
 LUCI_PKGARCH:=all
 
 include $(TOPDIR)/feeds/luci/luci.mk
+
+# call BuildPackage - OpenWrt buildroot signature

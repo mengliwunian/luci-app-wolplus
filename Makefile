@@ -7,7 +7,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-wolplus
 PKG_VERSION:=1.2
-PKG_RELEASE:=r20261012
+PKG_RELEASE:=20261013
 PKG_LICENSE:=Apache-2.0
 PKG_MAINTAINER:=sundaqiang
 
